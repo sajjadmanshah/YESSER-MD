@@ -1,5 +1,5 @@
 {
-  "name": "YESSER MD",
+  "name": "Sajjad MD",
   "description": "Best Whatsapp bot made by yessertech",
   "keywords": [
     "whatsapp bot"
@@ -10,7 +10,7 @@
       "SESSION_ID": {
       "description": "Paste here session id that you have scanned",
       "required": true,
-      "value": ""
+      "value": "Bmwmd$EFtJR3N7"
     },
     "MODE": {
       "description": "Enter true for public. false for private",
@@ -19,43 +19,43 @@
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter true for autoview status. false for no",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "true"
     },
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_TYPING": {
       "description": "make it true if you want bot to show typing",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_RECORDING": {
       "description": "make it true if you want bot to show recording audio",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "ALWAYS_ONLINE": {
       "description": "make it true if you want bot to show always online",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "true"
     },
     "AUTO_BLOCK": {
       "description": "make it true if you want bot to auto block only 212 numbers",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "REJECT_CALL": {
       "description": "make it true if you want to reject call",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "PREFIX": {
       "description": "Enter your bot prefix eg .,+@#$¶∆×π",
       "required": false,
-      "value": ""
+      "value": "."
     }
     },
   "buildpacks": [
